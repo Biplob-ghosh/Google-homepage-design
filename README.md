@@ -1,2 +1,1 @@
-# Google-homepage-design
-This page generated HTML and CSS
+# Google-front-page
